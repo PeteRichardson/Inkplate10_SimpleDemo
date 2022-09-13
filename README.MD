@@ -7,6 +7,7 @@
 1. Use imagemagick to convert your image to a 4 shades of gray bmp file.
 
 > ```brew install imagemagick```
+
 > ```convert bug.jpg -dither FloydSteinberg -define dither:diffusion-amount=85% -remap eink-4gray.png BMP3:bug.bmp```
 
 Note the -remap option, which remaps colors from the original to the colors in eink-4gray.png (courtesy of adafruit.com)
