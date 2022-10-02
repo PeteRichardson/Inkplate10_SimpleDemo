@@ -17,6 +17,8 @@ Note the -remap option, which remaps colors from the original to the colors in e
 
 Note that this image takes minutes(!) to load.
 
+![inkplatebug](https://user-images.githubusercontent.com/979694/193471882-e419b86c-068d-49b1-af67-1022b34231e4.png)
+
 #### Relevant Links
 * Purchase Inkplate: https://inkplate.io
 * Inkplate docs including API reference: https://inkplate.readthedocs.io/en/latest/index.html 
